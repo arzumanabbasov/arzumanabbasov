@@ -14,3 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arzumanabbasov&show_icons=true&locale=en" alt="arzumanabbasov" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arzumanabbasov"></img>
