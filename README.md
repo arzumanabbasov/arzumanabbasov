@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arzuman Abbasov</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=AI+Engineer;Data+Scientist;Data+Engineer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=AI+Engineer;Data+Scientist" alt="Typing SVG" /></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzumanabbasov&label=Profile%20views&color=0e75b6&style=flat" alt="arzumanabbasov" /> </p>
 
 <h3 align="left">Connect with me:</h3>
