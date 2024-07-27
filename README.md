@@ -11,7 +11,7 @@
 
 - 📫 Reach me at [**a.arzuman313@gmail.com**](mailto:a.arzuman313@gmail.com)
 
-- ⚡ Fun fact **My favourite sex postion is doggystyle**
+- ⚡ Fun fact ****
 
 <h3 align="left">Languages and Tools:</h3>
 
