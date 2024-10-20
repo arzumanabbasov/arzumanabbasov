@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arzuman Abbasov</h1>
 <h3 align="center">Data Scientist & Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Datagen**, **AzEmotions** and **canreels**
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **MLOps**
 
